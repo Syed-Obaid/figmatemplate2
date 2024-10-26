@@ -1,4 +1,17 @@
 {
+  "/_not-found/page": "app/_not-found/page.js",
+  "/favicon.ico/route": "app/favicon.ico/route.js",
   "/page": "app/page.js",
-  "/favicon.ico/route": "app/favicon.ico/route.js"
+  "/pages/banner/page": "app/pages/banner/page.js",
+  "/pages/bannner2/page": "app/pages/bannner2/page.js",
+  "/pages/bar/page": "app/pages/bar/page.js",
+  "/pages/featured/page": "app/pages/featured/page.js",
+  "/pages/footer/page": "app/pages/footer/page.js",
+  "/pages/information/page": "app/pages/information/page.js",
+  "/pages/navbar/page": "app/pages/navbar/page.js",
+  "/pages/product2/page": "app/pages/product2/page.js",
+  "/pages/product/page": "app/pages/product/page.js",
+  "/pages/register/page": "app/pages/register/page.js",
+  "/pages/signin/page": "app/pages/signin/page.js",
+  "/slider/page": "app/slider/page.js"
 }

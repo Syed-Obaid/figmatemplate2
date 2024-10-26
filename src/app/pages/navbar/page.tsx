@@ -6,21 +6,13 @@ import React, { useEffect, useState } from 'react'
 
 function Navbar() {
 const [isClick,SetIsClick]=useState(false)
-const [color,setColor] = useState(false)
+
 
 
 const toggleNavbar = () =>{
     SetIsClick(!isClick)
 }
 
-// const navEl = document.querySelector(".navbar")
-
-
-// window.addEventListener('scroll', () => {
-//     if(window.scrollY >= 100){
-//         navEl?.classList.add('navbar-scrolled')
-//     }
-// })
 const [scrolled, setScrolled] = useState(false)
 
 function handleScroll(){

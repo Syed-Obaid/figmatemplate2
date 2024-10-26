@@ -1,4 +1,4 @@
-import Image from "next/image";
+
 import Slider from "./slider/page";
 import Bar from "./pages/bar/page";
 import Banner from "./pages/banner/page";
